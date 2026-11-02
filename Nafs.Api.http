@@ -1,0 +1,4 @@
+@WebApplication1_HostAddress = http://localhost:5172
+
+
+GET http://localhost:5172/api/reflections?page=1&pageSize=1000000
